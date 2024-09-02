@@ -1,0 +1,7 @@
+print()
+input()
+max()
+len()
+min()
+round()
+sorted()
