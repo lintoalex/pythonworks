@@ -1,0 +1,3 @@
+top_student=max(students,key=lambda stu:stu.get("mark")
+
+print(top+student)
